@@ -1,0 +1,12 @@
+[project]
+enable_telemetry = false
+
+[features]
+unsafe_allow_html = false
+
+[features.spontaneous_file_upload]
+enabled = false
+
+[features.audio]
+enabled = false
+
